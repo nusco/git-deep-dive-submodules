@@ -1,0 +1,3 @@
+[submodule "git-deep-dive-library"]
+	path = git-deep-dive-library
+	url = git@github.com:nusco/git-deep-dive-library.git
